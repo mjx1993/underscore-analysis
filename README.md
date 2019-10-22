@@ -61,4 +61,4 @@ MIT
 
 test1111
 test2222
-test3333 & simple.
+test3333 AND simple.
